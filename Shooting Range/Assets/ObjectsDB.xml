@@ -1,0 +1,14 @@
+<elements>
+  <element>
+    <name>Red Sphere</name>
+    <reward>100</reward>
+  </element>
+  <element>
+    <name>Blue Cube</name>
+    <reward>300</reward>
+  </element>
+  <element>
+    <name>Green Cylinder</name>
+    <reward>200</reward>
+  </element>
+</elements>
